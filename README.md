@@ -1,11 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=8888&pause=1000&color=FF6F91&center=true&vcenter=true&width=650&lines=a+thousand+fantasy+%26%26+glorious+Coding+Hunt)](https://git.io/typing-svg)
-
 <p align="center">
+<img src= "https://readme-typing-svg.demolab.com?font=Caveat&size=35&duration=8888&pause=1000&color=FF6F91&center=true&vcenter=true&width=650&lines=a+thousand+fantasy+%26%26+glorious+Coding+Hunt"/>
+</p>
+
+<div align="center">
 <a title="Visits" target="_blank" href="https://github.com/stanley760/stanley760"><img src="https://komarev.com/ghpvc/?username=stanley760&color=FF6F91&label=Total views" />
 <a title="github" target="_blank" href="https://github.com/stanley760"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dstanley760&labelColor=282c34&color=BE93FD&logo=github&longCache=true" >
 <a title="juejin" target="_blank" href="https://juejin.cn/user/3140618196628622?utm_source=gold_browser_extension"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.juejin.cn%2Fuser_api%2Fv1%2Fuser%2Fget%3Faid%3D2608%26uuid%3D7263370873062639141%26spider%3D0%26user_id%3D3140618196628622%26not_self%3D1%26need_badge%3D0%26need_dislike_status%3D0%26verifyFp%3Df135df8289febe93d85a3be4622b28993e11a3a7bf5b27d12e%26fp%3Df135df8289febe93d85a3be4622b28993e11a3a7bf5b27d12e%26msToken%3DwwEYERqogOSrpgCl1GUMeCAIi5ROBcnfUNYfK9KQEeRskBDpB8Yncb71hy5iNFbpogkjjlcyRz6MeNoxYR30pGVG8fhNDWTkJO58wxY9cY8pH0e1Y0BunAjEJrCuNYY%3D%26a_bogus%3DDX-QkOgqMsm1YEvdGwDz97zmsc80YWRigZENUUC9XUw4&query=%24.data.got_view_count&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BSnVlamluPC90aXRsZT48cGF0aCBkPSJtMTIgMTQuMzE2IDcuNDU0LTUuODgtMi4wMjItMS42MjVMMTIgMTEuMWwtLjAwNC4wMDMtNS40MzItNC4yODgtMi4wMiAxLjYyNCA3LjQ1MiA1Ljg4Wm0wLTcuMjQ3IDIuODktMi4yOThMMTIgMi40NTNsLS4wMDQtLjAwNS0yLjg4NCAyLjMxOCAyLjg4NCAyLjNabTAgMTEuMjY2LS4wMDUuMDAyLTkuOTc1LTcuODdMMCAxMi4wODhsLjE5NC4xNTYgMTEuODAzIDkuMzA4IDcuNDYzLTUuODg1TDI0IDEyLjA4NWwtMi4wMjMtMS42MjRaIi8%2BPC9zdmc%2B&label=Junjin&labelColor=0084ff&color=brightgreen&longCache=true&suffix=%20hits" >
 
-</p>
+</div>
 
 
 ## 💡Ideas
@@ -23,6 +25,7 @@ Here are some ideas which are my plan in the past time:
 ## Activity
 ![Metrics](https://metrics.lecoq.io/stanley760?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
 
+<div align="center"><img src="https://raw.githubusercontent.com/stanley760/stanley760/main/assets/github-contribution-grid-snake.svg" ></div>
 
 ## 📈Heat
 
