@@ -1,5 +1,5 @@
 <p align="center">
-<img src= "https://readme-typing-svg.demolab.com?font=Caveat&size=35&duration=8888&pause=1000&color=FF6F91&center=true&vcenter=true&width=650&lines=a+thousand+fantasy+%26%26+glorious+Coding+Hunt"/>
+<img src= "https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=8888&pause=1000&color=FF6F91&center=true&vcenter=true&width=650&lines=a+thousand+fantasy+%26%26+glorious+Coding+Hunt"/>
 </p>
 
 <div align="center">
@@ -25,9 +25,10 @@ Here are some ideas which are my plan in the past time:
 ## Activity
 ![Metrics](https://metrics.lecoq.io/stanley760?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
 
-<div align="center"><img src="https://raw.githubusercontent.com/stanley760/stanley760/main/assets/github-contribution-grid-snake.svg" ></div>
-
 ## 📈Heat
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stanley760/stanley760/main/assets/github-contribution-grid-snake.svg" >
+</div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=stanley760&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
