@@ -26,3 +26,5 @@ jobs:
           target_branch: main
           build_dir: dist
           keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
