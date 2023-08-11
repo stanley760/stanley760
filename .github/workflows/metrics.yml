@@ -22,6 +22,4 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_calendar: yes
-          plugin_calendar_limit: 1
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_calendar_limit: 2
