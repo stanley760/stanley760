@@ -1,10 +1,10 @@
 name: Activity
 
 on:
+  watch:
+    types: [started forked]
   schedule:
-    - cron: "0 0 * * *" 
-  
-  workflow_dispatch:
+    - cron:  '0 8 * * *'
 
 jobs:
   build:
@@ -15,12 +15,10 @@ jobs:
         uses: actions/checkout@v2
       - uses: actions/setup-go@v2
       - name: Fetch events
-        run: |-
-          cd ../../autowrite/
-          go run main.go
+        run: go run main.go
       - name: Commit and push
         run: |-
           git config --global user.email "bot@github.com" && git config --global user.name "githubBot"
           git diff
-          git add . && git commit -m "update: update bvlog" || exit 0
+          git add . && git commit -m "🤖update: update bvlog" || exit 0
           git push
