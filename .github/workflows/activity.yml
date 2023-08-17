@@ -2,10 +2,10 @@ name: Activity
 
 on:
   watch:
-    types: [started forked]
+    types: started
   schedule:
     - cron:  '0 8 * * *'
-
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
