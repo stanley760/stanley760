@@ -11,14 +11,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v2
-      - uses: actions/setup-go@v2
-      - name: Fetch events
+      - name: ✔️ Check out repo
+        uses: actions/checkout@v3
+      - name: ☸️ Set the env of golang
+      - uses: actions/setup-go@v4
+        with:
+          go-version: '1.19'
+      - name: 🚀 Fetch events
         run: |-
           go mod tidy -go=1.20
           go run main.go
-      - name: Commit and push
+      - name: 📌 Commit and push
         run: |-
           git config --global user.email "bot@github.com" && git config --global user.name "githubBot"
           git diff
