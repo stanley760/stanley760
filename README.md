@@ -58,7 +58,7 @@ Here are some ideas in my planning list:
 
 
 ## 📈Heat
-<img src="./github-metrics/base.svg"  alt="Heat"/>
+<img src="https://cdn.jsdelivr.net/gh/stanley760/stanley760/github-metrics/base.svg"  alt="Heat"/>
 
 ### 🌏 Social Panel
 ![juejin](https://stats.justsong.cn/api/juejin?id=3140618196628622&theme=synthwave)
