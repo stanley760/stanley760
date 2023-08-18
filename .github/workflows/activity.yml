@@ -1,11 +1,11 @@
 name: Activity
 
 on:
+  push: {branches: ["master", "main"]}
   watch:
     types: started
   schedule:
     - cron:  '0 8 * * *'
-  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
