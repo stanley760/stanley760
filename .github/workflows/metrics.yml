@@ -21,7 +21,8 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
+          plugin_rss: yes
+          plugin_rss_limit: 3
+          plugin_rss_source: https://tech.meituan.com/feed/
           plugin_calendar: yes
           plugin_calendar_limit: 2
-          plugin_rss_limit: 4
-          plugin_rss_source: https://tech.meituan.com/feed/
