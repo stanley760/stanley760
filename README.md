@@ -49,18 +49,28 @@ Here are some ideas in my planning list:
 ## Activity
 <!--events start -->
 
-我的近期动态（[一键三连](https://github.com/stanley760/stanley760) 将自动刷新，最近更新时间：`2023-08-18 08:12:22`）：
+我的近期动态（[一键三连](https://github.com/stanley760/stanley760) 将自动刷新，最近更新时间：`2023-08-18 08:23:44`）：
 
-* [大道至简之- elastic](https://juejin.cn/post/7245919919224815671)：（后端 | Go）亲爱的家人们朋友们时隔7个月，打工人又开始上线了，我们持续更新golang灵魂系列。其中断更原因有很多，一方面由于开启公司加班的暴走模式， 另一方面由于小编逐渐感觉个人江郎才尽对golang失去其新鲜
-* [记一次爬虫使用日记（1）--- colly修炼手册](https://juejin.cn/post/7193963524584898617)：（GitHub | 开源）当我们使用golang进行网络编程时，通常使用自带库 net/http 足够应付日常各类需求。以及在应对简单的登录请求脚本编写，直接使用 http 即可。
-* [go 孪生兄弟切片和数组](https://juejin.cn/post/7159388002190360584)：（后端 | Go）我正在参加「掘金·启航计划」不知道大家在刚开始学习数组和切片的时候，是否总是分不清数组和切片？我们可以类比其他语言时，总是能发现有很多相似的使用方法，比如数组都是大小不变的，切片是什么呢？
-* [defer 使用的一点点总结](https://juejin.cn/post/7153669620426080269)：（后端 | Go）我正在参加「掘金·启航计划」 最近在网上看到下面一个考察 defer 使用的面试题。我们都知道 defer 就是在函数返回前执行的延迟函数，常用来关闭流、通道以及断开数据库连接。
-* [golang 开启opencv图形化编程](https://juejin.cn/post/7152683472425844749)：（后端 | GitHub）golang 开启opencv图形化编程 我正在参加「掘金·启航计划」 最近在国外一个嵌入式编程网站上看到其平台支持Opencv库，出于好奇在其说明文档上看到https://gocv.io
-* [不得不知道的map](https://juejin.cn/post/7151812512420692004)：（后端 | Go）我正在参加「掘金·启航计划」 作为golang三大特殊类型slice、map、channel之一，由于map极其简洁的语法特性，对于新增、删除、修改数据这些基本操作，大家都可以信手拈来.
-* [golang 泛型的“前世今生”](https://juejin.cn/post/7147567560911749150)：（后端 | Go）我正在参加「掘金·启航计划」 泛型的"前世" Q: 为什么需要泛型，不是已经有interface{}？接触过c++、java等静态语言的童鞋对于泛型这个东西都有一定了解。
-* [channel 同一个世界，同一个梦](https://juejin.cn/post/7117101820652519460)：（后端）我们主要围绕下面三个关键点来了解channel，一把梭哈从新手到项目实战，争取给各位读友带来不一样的沉浸式体验。
-* [golang不为人知的内存对齐（memory-alignment）](https://juejin.cn/post/7082332804922966023)：（后端）心之所向，身之所往。 1.什么是内存对齐？ a.想象中的内存 首先，思考下我们程序员是怎么看待内存的。是的，没错，就像下面图片展示的。内存就是一个一个的数据，可以用指针数组 char*byte[] 表
-* [Go 闭包（Closure）](https://juejin.cn/post/7029743304895889421)：（后端）go闭包原理分析与其逃逸分析 一个函数和对其周围状态（lexical environment，词法环境）的引用捆绑在一起（或者说函数被引用包围），这样的组合就是闭包（closure）。
+* [大道至简之- elastic](https://juejin.cn/post/7245919919224815671) <font color="#C679FF">后端</font> | <font color="#00FFFF">Go</font>
+
+* [记一次爬虫使用日记（1）--- colly修炼手册](https://juejin.cn/post/7193963524584898617) <font color="#616161">GitHub</font> | <font color="#6EBD68">开源</font>
+
+* [go 孪生兄弟切片和数组](https://juejin.cn/post/7159388002190360584) <font color="#C679FF">后端</font> | <font color="#00FFFF">Go</font>
+
+* [defer 使用的一点点总结](https://juejin.cn/post/7153669620426080269) <font color="#C679FF">后端</font> | <font color="#00FFFF">Go</font>
+
+* [golang 开启opencv图形化编程](https://juejin.cn/post/7152683472425844749) <font color="#C679FF">后端</font> | <font color="#616161">GitHub</font>
+
+* [不得不知道的map](https://juejin.cn/post/7151812512420692004) <font color="#C679FF">后端</font> | <font color="#00FFFF">Go</font>
+
+* [golang 泛型的“前世今生”](https://juejin.cn/post/7147567560911749150) <font color="#C679FF">后端</font> | <font color="#00FFFF">Go</font>
+
+* [channel 同一个世界，同一个梦](https://juejin.cn/post/7117101820652519460) <font color="#C679FF">后端</font>
+
+* [golang不为人知的内存对齐（memory-alignment）](https://juejin.cn/post/7082332804922966023) <font color="#C679FF">后端</font>
+
+* [Go 闭包（Closure）](https://juejin.cn/post/7029743304895889421) <font color="#C679FF">后端</font>
+
 
 <!--events end -->
 <img src="./github-metrics/base.svg" />
