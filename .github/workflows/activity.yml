@@ -9,6 +9,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        go-version: [ '1.19', '1.19.x' ]
+
 
     steps:
       - name: ✔️ Check out repo
@@ -16,7 +20,7 @@ jobs:
       - name: ☸️ Set the env of golang
       - uses: actions/setup-go@v4
         with:
-          go-version: '1.19'
+          go-version: ${{ matrix.go-version }}
       - name: 🚀 Fetch events
         run: go run main.go
       - name: 📌 Commit and push
