@@ -22,9 +22,9 @@ const (
 
 func main() {
 	result := map[string]interface{}{}
-	uuid, _ := uuid.NewRandom()
+	random, _ := uuid.NewRandom()
 	reg := regexp.MustCompile(`[^0-9]+`)
-	str := reg.ReplaceAllString(uuid.String(), "")
+	str := reg.ReplaceAllString(random.String(), "")
 	response, data, errors := gorequest.New().TLSClientConfig(&tls.Config{InsecureSkipVerify: true}).
 		Post("https://api.juejin.cn/content_api/v1/article/query_list?aid=2608&spider=0&uuid="+str).Timeout(7*time.Second).
 		Type("json").
@@ -50,19 +50,23 @@ func main() {
 		id := info["article_id"].(string)
 		title := info["title"].(string)
 		url := "https://juejin.cn/post/" + id
-		content := info["brief_content"].(string)
 		tags := evt["tags"].([]interface{})
 		var tagstr string
 		for i := 0; i < len(tags); i++ {
 			tag := tags[i].(map[string]interface{})
 			name := tag["tag_name"].(string)
+			color := tag["color"].(string)
+			if color == "" {
+				color = "#00FFFF"
+			}
+			name = "<font color=\"" + color + "\">" + name + "</font>"
 			if len(tags)-1 != i {
 				tagstr = name + " | "
 			} else {
 				tagstr += name
 			}
 		}
-		buf.WriteString("* [" + title + "](" + url + ")：（" + tagstr + "）" + content + "\n")
+		buf.WriteString("* [" + title + "](" + url + ") " + tagstr + "\n\n")
 	}
 	buf.WriteString("\n")
 	fmt.Println(buf.String())
