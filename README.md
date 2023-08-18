@@ -60,11 +60,8 @@ Here are some ideas in my planning list:
 ## 📈Heat
 <img src="./github-metrics/base.svg"  alt="Heat"/>
 
-### 🌏 Checkin Panel
-<figure class="half">
-    <img width="460" src="https://streak-stats.demolab.com?user=stanley760&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="vertical-align: center" alt="Heat" />
-    <img width="340" src="https://stats.justsong.cn/api/juejin?id=3140618196628622&theme=synthwave" style="box-shadow:none !important;vertical-align: center" alt="Heat"/>
-</figure>
+### 🌏 Social Panel
+![juejin](https://stats.justsong.cn/api/juejin?id=3140618196628622&theme=synthwave)
 
 ### 📊 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stanley760&theme=merko" alt="Heat"/>
+![github](https://github-readme-activity-graph.vercel.app/graph?username=stanley760&theme=merko)
