@@ -1,21 +1,3 @@
-<style>
-* {
-    margin: 0;
-    padding: 0;
-}
-
-.box {
-    display: table;
-    float: left;
-    width: 50%;
-    text-align: center;
-}
-
-.box img {
-    vertical-align: center;
-}
-</style>
-
 <p align="center">
 <img src= "https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=8888&pause=1000&color=FF6F91&center=true&vcenter=true&width=650&lines=a+thousand+fantasy+%26%26+glorious+Coding+Hunt"/>
 </p>
@@ -46,7 +28,7 @@ Here are some ideas in my planning list:
 - 🧠 Fun fact: The Engineer of National first-class CV 
 
 
-## Activity
+## 🎉Activity
 <!--events start -->
 
 我的近期动态（[一键三连](https://github.com/stanley760/stanley760) 将自动刷新，最近更新时间：`2023-08-18 08:23:44`）：
@@ -73,21 +55,16 @@ Here are some ideas in my planning list:
 
 
 <!--events end -->
-<img src="./github-metrics/base.svg" />
+
 
 ## 📈Heat
-🌏 Checkin Panel
-<div class="box1">
-    <div class="box">
-        <img src="https://stats.justsong.cn/api/github?username=stanley760&theme=synthwave&hide_border=true&show_icons=true" alt="Heat"/>
-    </div>
-    <div class="box">
-        <img src="https://stats.justsong.cn/api/juejin?id=3140618196628622&theme=synthwave" style="box-shadow:none !important" alt="Heat"/>
-    </div>
-</div>
-📊 GitHub Activity Graph
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=stanley760&theme=merko" alt="Heat"/></td>
-  </tr>
-</table>
+<img src="./github-metrics/base.svg"  alt="Heat"/>
+
+### 🌏 Checkin Panel
+<figure class="half">
+    <img width="460" src="https://streak-stats.demolab.com?user=stanley760&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="vertical-align: center" alt="Heat" />
+    <img width="340" src="https://stats.justsong.cn/api/juejin?id=3140618196628622&theme=synthwave" style="box-shadow:none !important;vertical-align: center" alt="Heat"/>
+</figure>
+
+### 📊 GitHub Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stanley760&theme=merko" alt="Heat"/>
