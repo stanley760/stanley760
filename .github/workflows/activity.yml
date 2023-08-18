@@ -9,9 +9,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        go-version: '1.19.0'
 
     steps:
       - name: ✔️ Check out repo
@@ -19,7 +16,7 @@ jobs:
       - name: ☸️ Set the env of golang
         uses: actions/setup-go@v4
         with:
-          go-version: ${{ matrix.go-version }}
+          go-version: '1.21'
       - name: 🚀 Fetch events
         run: |
           go env -w GO111MODULE=on
