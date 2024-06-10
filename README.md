@@ -31,7 +31,9 @@ Here are some ideas in my planning list:
 ## 🎉Activity
 <!--events start -->
 
-我的近期动态（[一键三连](https://github.com/stanley760/stanley760) 将自动刷新，最近更新时间：`2024-06-09 08:13:28`）：
+我的近期动态（[一键三连](https://github.com/stanley760/stanley760) 将自动刷新，最近更新时间：`2024-06-10 08:15:55`）：
+
+* [缓存的那些事儿系列（1）](https://juejin.cn/post/7377643248188375051) <font color="#C679FF">后端</font> | <font color="#000000">微服务</font>
 
 * [大道至简之- elastic](https://juejin.cn/post/7245919919224815671) <font color="#C679FF">后端</font> | <font color="#00FFFF">Go</font>
 
@@ -50,8 +52,6 @@ Here are some ideas in my planning list:
 * [channel 同一个世界，同一个梦](https://juejin.cn/post/7117101820652519460) <font color="#C679FF">后端</font>
 
 * [golang不为人知的内存对齐（memory-alignment）](https://juejin.cn/post/7082332804922966023) <font color="#C679FF">后端</font>
-
-* [Go 闭包（Closure）](https://juejin.cn/post/7029743304895889421) <font color="#C679FF">后端</font>
 
 
 <!--events end -->
